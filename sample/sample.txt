@@ -1,0 +1,5 @@
+iruka
+git add
+git commit
+gitg‚¢•û
+git diff
